@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/places-app/static/css/main.fa804d29.chunk.css",
+    "main.js": "/places-app/static/js/main.af7021d0.chunk.js",
+    "main.js.map": "/places-app/static/js/main.af7021d0.chunk.js.map",
+    "runtime-main.js": "/places-app/static/js/runtime-main.f7e48ba6.js",
+    "runtime-main.js.map": "/places-app/static/js/runtime-main.f7e48ba6.js.map",
+    "static/js/2.f930af49.chunk.js": "/places-app/static/js/2.f930af49.chunk.js",
+    "static/js/2.f930af49.chunk.js.map": "/places-app/static/js/2.f930af49.chunk.js.map",
+    "index.html": "/places-app/index.html",
+    "static/css/main.fa804d29.chunk.css.map": "/places-app/static/css/main.fa804d29.chunk.css.map",
+    "static/js/2.f930af49.chunk.js.LICENSE.txt": "/places-app/static/js/2.f930af49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7e48ba6.js",
+    "static/js/2.f930af49.chunk.js",
+    "static/css/main.fa804d29.chunk.css",
+    "static/js/main.af7021d0.chunk.js"
+  ]
+}
